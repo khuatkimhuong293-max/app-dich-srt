@@ -1,0 +1,5 @@
+{
+  "name": "SRT Chinese-Vietnamese Translator",
+  "description": "Translate .srt subtitle files from Chinese to Vietnamese using Google AI Gemini, preserving timing and context.",
+  "requestFramePermissions": []
+}
